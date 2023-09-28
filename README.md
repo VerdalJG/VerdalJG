@@ -15,7 +15,6 @@
   - [Jail Navigation](https://github.com/VerdalJG/Jail-Navigation)
   - [Illumination Project](https://github.com/VerdalJG/Dungeon-Illumination)
   - [VFX Chemtech](https://github.com/VerdalJG/VFX-Chemtech)
-  - [EVE Project](https://github.com/VerdalJG/EVE-Project)
   - [Sound Remake Trailer](https://github.com/VerdalJG/PalWorld-Sound-Remake)
   - [PacVersary](https://github.com/VerdalJG/Pacversary)
 
