@@ -1,7 +1,16 @@
 <h1>Hi, I'm Vicente! <br/> <a href="https://www.linkedin.com/in/vicente-cupello-813494244/">Game Programmer</a>, Speedrunner, Competitor</h1>
-<b>I am a junior programmer who is always looking to learn and improve my code. I am passionate about games and systems, especially in how they are designed and function. I also play them competitively at a top level.</b>
+<b>I am a programmer who is always looking to learn and improve my code. I am passionate about games and systems, especially in how they are designed and function. I also play them competitively at a top level.</b>
   
 <h2>👨‍💻 University Projects:</h2>
+- <b>Master's degree</b>
+  - [GHUNTER](https://github.com/gamedevmaster/gamedevmaster_g3_2324)
+  - [3D Engine (WiP)](https://github.com/VerdalJG/3D-Programming-Class)
+  - [2D Engine (WIP)](https://github.com/VerdalJG/2D-Programming-Class)
+  - [Super Pang Clone (WIP)](https://github.com/VerdalJG/Code-Architecture-Class)
+  - [Unreal Engine Blueprints First Tests](https://github.com/VerdalJG/Unreal-Class)
+  - [Math Fundamentals Class](https://github.com/VerdalJG/Math-Fundamentals-Class)
+  - [Design Pattern Applications](https://github.com/VerdalJG/Software-Engineering-Class)
+  - [Learning C++](https://github.com/VerdalJG/CPP-Class)
 
 - <b>Construct 2</b>
   - [Bullet Hell: I Wanna Kill the Marx](https://github.com/VerdalJG/I-Wanna-Kill-The-Marx)
@@ -23,10 +32,8 @@
 <h2> 🤳 Links and Socials:</h2>
 
 [<img align="left" alt="Verdal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Verdal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Verdal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/Verdal_JG
 [youtube]: https://www.youtube.com/channel/UC9WjT4KkPE9z2LB30feGQ0g
 [linkedin]: https://www.linkedin.com/in/vicente-cupello-813494244/
 
