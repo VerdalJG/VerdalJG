@@ -8,11 +8,15 @@
   - [3D Engine (WiP)](https://github.com/VerdalJG/3D-Programming-Class)
   - [2D Engine (WIP)](https://github.com/VerdalJG/2D-Programming-Class)
   - [Super Pang Clone (WIP)](https://github.com/VerdalJG/Code-Architecture-Class)
+  - [Audio Loading](https://github.com/VerdalJG/Audio-Class)
+  - [Unreal Engine UI Skill Tree](https://github.com/VerdalJG/UI-Class)
+  - [AI (Steering + Pathfinding) + Lua](https://github.com/VerdalJG/AI-Scripting-Class)
   - [Unreal Engine Blueprints First Tests](https://github.com/VerdalJG/Unreal-Class)
   - [Math Fundamentals Class](https://github.com/VerdalJG/Math-Fundamentals-Class)
   - [Design Pattern Applications](https://github.com/VerdalJG/Software-Engineering-Class)
   - [Learning C++](https://github.com/VerdalJG/CPP-Class)
 
+Older Projects:
 - <b>Construct 2</b>
   - [Bullet Hell: I Wanna Kill the Marx](https://github.com/VerdalJG/I-Wanna-Kill-The-Marx)
 - <b>Unity</b>
