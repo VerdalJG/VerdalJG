@@ -2,6 +2,7 @@
 <b>I am a programmer who is always looking to learn and improve my code. I am passionate about games and systems, especially in how they are designed and function. I also play them competitively at a top level.</b>
   
 <h2>👨‍💻 University Projects:</h2>
+
 - <b>Master's degree</b>
   - [GHUNTER](https://github.com/gamedevmaster/gamedevmaster_g3_2324)
   - [3D Engine (WiP)](https://github.com/VerdalJG/3D-Programming-Class)
