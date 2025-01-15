@@ -11,7 +11,6 @@
   - [Audio Loading](https://github.com/VerdalJG/Audio-Class)
   - [Unreal Engine UI Skill Tree](https://github.com/VerdalJG/UI-Class)
   - [AI (Steering + Pathfinding) + Lua](https://github.com/VerdalJG/AI-Scripting-Class)
-  - [Unreal Engine Blueprints First Tests](https://github.com/VerdalJG/Unreal-Class)
   - [Math Fundamentals Class](https://github.com/VerdalJG/Math-Fundamentals-Class)
   - [Design Pattern Applications](https://github.com/VerdalJG/Software-Engineering-Class)
   - [Learning C++](https://github.com/VerdalJG/CPP-Class)
